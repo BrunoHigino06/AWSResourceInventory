@@ -1,5 +1,4 @@
 import os
-import re
 
 def Resource_Inventory():
     ec2 = True
